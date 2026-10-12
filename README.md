@@ -1,4 +1,4 @@
-<h1 align="center"><b>HDAudio</b></h1>
+<h1 align="center"><b>HD Audio</b></h1>
 <p align="center"><small>This is your small paragraph text.</small></p>
 <p align="center">
   <img src="screenshots/1.png" width="300" />
