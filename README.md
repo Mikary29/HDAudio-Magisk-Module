@@ -1,4 +1,4 @@
-<h2 align="center"><b>HDAudio</b></h2>
+<h1 align="center"><b>HDAudio</b></h1>
 <p align="center">
   <img src="screenshots/1.png" width="300" />
   <img src="screenshots/2.png" width="300" />
