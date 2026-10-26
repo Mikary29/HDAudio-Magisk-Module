@@ -1,5 +1,5 @@
 <h1 align="center"><b>HD Audio</b></h1>
-<p align="center"><small>This is your small paragraph text.</small></p>
+<p align="center"><small>This is your small paragraph text. For all the Google Pixel owners. Everyone else can take there lying asses and get LOST!</small></p>
 <p align="center">
   <img src="screenshots/1.png" width="300" />
   <img src="screenshots/2.png" width="300" />
