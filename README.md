@@ -1,5 +1,5 @@
 <h1 align="center"><b>HD Audio</b></h1>
-<p align="center"><small>This is your small paragraph text. For all the Google Pixel owners. Other phones can also use it but the audio_effects_config.xml will have to possibly be modified for you r phone. But it is for Android 17.</small></p>
+<p align="center"><small>This is your small paragraph text. For all the Google Pixel owners. Other phones can also use it but the audio_effects_config.xml will have to possibly be modified for your phone. But it is for Android 17.</small></p>
 <p align="center">
   <img src="screenshots/1.png" width="300" />
   <img src="screenshots/2.png" width="300" />
